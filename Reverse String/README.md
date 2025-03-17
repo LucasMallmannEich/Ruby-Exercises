@@ -15,3 +15,5 @@ Your task is to reverse a given string.
 - Turn `"stressed"` into `"desserts"`.
 - Turn `"strops"` into `"sports"`.
 - Turn `"racecar"` into `"racecar"`.
+
+Here's the link of the exercise: https://exercism.org/tracks/ruby/exercises/reverse-string
