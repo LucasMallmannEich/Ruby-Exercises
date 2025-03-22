@@ -18,3 +18,5 @@ Help generate some jargon by writing a program that converts a long name like **
 | As Soon As Possible       | ASAP   |
 | Liquid-crystal display    | LCD    |
 | Thank George It's Friday! | TGIF   |
+
+Here's the link of the exercise: https://exercism.org/tracks/ruby/exercises/acronym
