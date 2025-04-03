@@ -26,6 +26,3 @@ puts scores.highest_score # 70
 puts scores.latest_score  # 70
 puts scores.top_three     # [70, 50, 30]
 ```
-
-Good luck!
-
