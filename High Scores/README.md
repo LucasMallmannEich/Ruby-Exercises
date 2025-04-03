@@ -28,4 +28,3 @@ puts scores.top_three     # [70, 50, 30]
 ```
 
 Here's the link of the exercise: [https://exercism.org/tracks/ruby/exercises/high-scores](https://exercism.org/tracks/ruby/exercises/high-scores)
-https://exercism.org/tracks/ruby/exercises/high-scores
