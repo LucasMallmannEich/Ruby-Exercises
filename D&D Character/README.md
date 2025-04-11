@@ -46,5 +46,17 @@ Your character's initial **hitpoints** are calculated using their **constitution
 
 ## 💡 Example
 
-Here is an example of how one might generate a character:
-
+Here is an example of how one might generate a character:                     
+                      
+Rolls for each ability (4d6):                
+                    
+5, 3, 1, 6 → Discard 1 → 5 + 3 + 6 = 14 → Strength           
+3, 2, 5, 3 → Discard 2 → 3 + 5 + 3 = 11 → Dexterity                  
+1, 1, 1, 1 → Discard 1 → 1 + 1 + 1 = 3 → Constitution               
+2, 1, 6, 6 → Discard 1 → 2 + 6 + 6 = 14 → Intelligence              
+3, 5, 3, 4 → Discard 3 → 5 + 3 + 4 = 12 → Wisdom               
+6, 6, 6, 6 → Discard 6 → 6 + 6 + 6 = 18 → Charisma                        
+                       
+Constitution = 3                              
+Constitution Modifier = (3 - 10) / 2 = -3.5 → -4 (arredondado para baixo)                      
+Hitpoints = 10 + (-4) = 6                 
