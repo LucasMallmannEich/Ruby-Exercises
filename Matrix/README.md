@@ -41,4 +41,6 @@ And its columns:
             
 9, 5, 6               
 8, 3, 6               
-7, 2, 7                                            
+7, 2, 7                 
+
+Here's the link of the exercise: https://exercism.org/tracks/ruby/exercises/matrix
