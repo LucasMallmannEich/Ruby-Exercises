@@ -60,3 +60,5 @@ Rolls for each ability (4d6):
 Constitution = 3                              
 Constitution Modifier = (3 - 10) / 2 = -3.5 → -4 (arredondado para baixo)                      
 Hitpoints = 10 + (-4) = 6                 
+
+Here's the link of the exercise: [https://exercism.org/tracks/ruby/exercises/high-scores](https://exercism.org/tracks/ruby/exercises/dnd-character)
