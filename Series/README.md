@@ -20,3 +20,5 @@ And the following 4-digit series:
 And if you ask for a 6-digit series from a 5-digit string, you deserve whatever you get.
 
 Note that these series are only required to occupy adjacent positions in the input; the digits need not be numerically consecutive.
+
+Here's the link of the exercise: [https://exercism.org/tracks/ruby/exercises/hello-world](https://exercism.org/tracks/ruby/exercises/series)
