@@ -60,3 +60,5 @@ so: 1
 special: 1               
 that's: 1               
 the: 2             
+
+Here's the link of the exercise: [https://exercism.org/tracks/ruby/exercises/word-count](https://exercism.org/tracks/ruby/exercises/word-count)
