@@ -18,3 +18,5 @@ If a given number:
 - `28` is divisible by 7, but not 3 or 5, so the result would be `"Plong"`.
 - `30` is divisible by 3 and 5, but not 7, so the result would be `"PlingPlang"`.
 - `34` is not divisible by 3, 5, or 7, so the result would be `"34"`.
+
+Here's the link of the exercise: https://exercism.org/tracks/ruby/exercises/raindrops
