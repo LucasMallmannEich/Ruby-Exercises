@@ -12,3 +12,5 @@ An **isogram** (also known as a "non-pattern word") is a word or phrase without 
 - `six-year-old`
 
 The word `isograms`, however, is **not** an isogram, because the **s** repeats.
+
+Here's the link of the exercise: https://exercism.org/tracks/ruby/exercises/isogram
